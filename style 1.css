@@ -1,0 +1,31 @@
+table td{
+    text-align: center;
+    height: 30px;
+}
+
+.texto{
+    writing-mode: vertical-lr;
+}
+
+.dias{
+    background-color:rgb(255, 234, 206)
+}
+.rosa{
+    background-color: rgb(254, 206, 214);
+}
+.terra{
+    background-color: rgb(255, 194, 142);
+}
+.amareloqueim{
+    background-color: rgb(255, 215, 85);
+}
+.amarelo{
+    background-color: yellow;
+}
+.roxo{
+    background-color: rgb(255, 123, 255);
+}
+.cinza{
+    background-color: rgb(235, 232, 232);
+}
+
